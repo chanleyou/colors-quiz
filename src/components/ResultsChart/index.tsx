@@ -46,7 +46,6 @@ export const ResultsChart = ({ results }: Props) => {
           // display: false
           ticks: {
             stepSize: 5,
-            max: 65,
           },
         },
       },
